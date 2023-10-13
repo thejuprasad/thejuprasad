@@ -1,6 +1,7 @@
 ### Hi there 👋
 <img src="https://github.com/thejuprasad/thejuprasad/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-# Welcome to [Your Name]'s GitHub Profile!
+
+# Welcome to THEJU'S GitHub Profile!
 
 👋 Hello! I'm THEJU PRASAD, a passionate full-stack web developer with a strong foundation in data structures and algorithms.
 
