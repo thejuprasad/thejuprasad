@@ -16,9 +16,10 @@
 - **Other Tools**: Git, VSCode, Postman
 
 ## Projects
--[Project-1] (https://github.com/thejuprasad/Talk-A-Tive-App)
 
--[project-2] (https://github.com/thejuprasad/react-crypto-tracker-app/tree/main)
+- [Project 1](https://github.com/thejuprasad/Talk-A-Tive-App) - A Social media web chatting provides one-on-one and group chat optionalities.
+- [Project 2](https://github.com/thejuprasad/react-crypto-tracker-app/tree/main) - Crypto currency Tracker which will be a dashboard website . You can Visit and have a Look into it.
+
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/g-theju-prasad-8b2747157)
