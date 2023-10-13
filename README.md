@@ -15,7 +15,9 @@
 - **Database**: MongoDB, MySQL
 - **Other Tools**: Git, VSCode, Postman
 
-
+## Projects
+-[Project-1]()
+-[project-2]()
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/g-theju-prasad-8b2747157)
