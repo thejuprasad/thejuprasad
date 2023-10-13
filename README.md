@@ -16,8 +16,9 @@
 - **Other Tools**: Git, VSCode, Postman
 
 ## Projects
--[Project-1]()
--[project-2]()
+-[Project-1] (https://github.com/thejuprasad/Talk-A-Tive-App)
+
+-[project-2] (https://github.com/thejuprasad/react-crypto-tracker-app/tree/main)
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/g-theju-prasad-8b2747157)
